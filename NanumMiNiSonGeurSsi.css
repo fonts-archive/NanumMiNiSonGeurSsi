@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumMiNiSonGeurSsi';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMiNiSonGeurSsi/NanumMiNiSonGeurSsi.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMiNiSonGeurSsi/NanumMiNiSonGeurSsi.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMiNiSonGeurSsi/NanumMiNiSonGeurSsi.ttf') format('truetype');
+}
